@@ -5,8 +5,6 @@ import { useProductStore } from "../stores/useProductStore";
 const ProductsList = () => {
   const { deleteProduct, products } = useProductStore();
 
-  console.log("products", products);
-
   return (
     <motion.div
       className="bg-gray-800 shadow-lg rounded-lg overflow-x-auto max-w-7xl mx-auto"

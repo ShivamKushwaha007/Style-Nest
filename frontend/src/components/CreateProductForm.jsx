@@ -35,7 +35,7 @@ const CreateProductForm = () => {
 				setNewProduct({ ...newProduct, image: reader.result });
 			};
 
-			reader.readAsDataURL(file); // base64
+			reader.readAsDataURL(file);
 		}
 	};
 
