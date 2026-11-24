@@ -1,5 +1,7 @@
 # 🛒 StyleNest – Full Stack MERN Application
 
+[🚀 Live Demo](https://style-nest.onrender.com/)
+
 A full-featured e-commerce web application built with the MERN stack.
 
 The platform supports secure authentication, product management, shopping cart functionality, online payments through Stripe, and an admin dashboard for managing products.
